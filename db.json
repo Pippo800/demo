@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "entities": [
+        {
+            "logicalName": "incident",
+            "id": "22e22f70-834d-ef11-bfe2-000d3a67a4d2",
+            "incidentid": "22e22f70-834d-ef11-bfe2-000d3a67a4d2",
+            "contact": {
+                "mobilephone": "5323536354"
+            },
+            "sisal_pdv": {
+                "sisal_phone": "5323536354"
+            }
+        }
+    ]
 }
